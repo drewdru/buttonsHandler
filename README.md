@@ -40,6 +40,11 @@ If you have two or more monitors and want to confine the stylus to one screen yo
 
     xinput set-prop "device name" --type=float "Coordinate Transformation Matrix" 0.5 0 0.5 0 1 0 0 0 1
 
+defaul value:
+
+    Coordinate Transformation Matrix (156):	1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000
+
+
 ## More about graphics tablet set up
 
 For more information about graphics tablet setup see https://digimend.github.io/support/howto/drivers/evdev/
